@@ -1,0 +1,25 @@
+title:              Champer Lab
+email:              jc3248@cornell.edu
+description:        Welcome to the Champer Lab
+author:             Jackson Champer
+baseurl:            ""
+url:                "https://jchamper.github.io"
+
+# Social Profiles
+twitter_username:
+github_username:
+facebook_username:
+instagram_username:
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap

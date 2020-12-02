@@ -1,8 +1,8 @@
 # Welcome to the Champer Lab
 
-Information about the Champer Lab, which will be joining the School of Life Sciences at Peking University and the Tsinghua-Peking Center for Life Sciences in early 2021.
+Information about the Champer Lab, which will be joining the School of Life Sciences at Peking University and the Peking-Tsinghua Center for Life Sciences in early 2021.
 
-View the site here: https://jchamper.github.io/.
+View the site here: https://jchamper.github.io
 
 ## Copyright and License
 
